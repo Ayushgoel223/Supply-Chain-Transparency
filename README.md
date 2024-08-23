@@ -172,7 +172,6 @@ Here's a simplified flowchart of the **SupplyChain** contract functionalities:
    - Input: Product ID
    - Retrieve and return the product's history
 
-![SupplyChain Flowchart](https://via.placeholder.com/400x200.png) 
 ## Networks 
 Educhain
 ## Contract Address
